@@ -18,7 +18,7 @@
     "web": "expo start --web",
     "eject": "expo eject"
   },
-  "dependencies": {
+  "peerDependencies": {
     "expo": "~40.0.0",
     "expo-status-bar": "~1.0.3",
     "query-string": "^6.13.7",
